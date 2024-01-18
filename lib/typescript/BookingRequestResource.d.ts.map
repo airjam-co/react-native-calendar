@@ -1,0 +1,1 @@
+{"version":3,"file":"BookingRequestResource.d.ts","sourceRoot":"","sources":["../../src/BookingRequestResource.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,eAAe,CAAC;AAErD,MAAM,WAAW,sBAAsB;IACrC,QAAQ,EAAE,eAAe,CAAC;IAC1B,YAAY,EAAE,IAAI,CAAC;IACnB,UAAU,EAAE,IAAI,CAAC;CAClB"}

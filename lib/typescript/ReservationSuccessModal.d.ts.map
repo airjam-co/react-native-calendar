@@ -1,0 +1,1 @@
+{"version":3,"file":"ReservationSuccessModal.d.ts","sourceRoot":"","sources":["../../src/ReservationSuccessModal.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAoB,MAAM,OAAO,CAAC;AAWzC,OAAO,KAAK,EAAE,iBAAiB,EAAE,MAAM,qBAAqB,CAAC;AAI7D,UAAU,KAAK;IACb,QAAQ,EAAE,MAAM,CAAC;IACjB,aAAa,EAAE,iBAAiB,CAAC;IACjC,OAAO,CAAC,EAAE,MAAM,IAAI,CAAC;CACtB;AAED,eAAO,MAAM,uBAAuB,0CAIjC,KAAK,sBA2IP,CAAC"}
