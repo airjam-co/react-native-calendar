@@ -101,7 +101,8 @@
       "tagName": "v${version}"
     },
     "npm": {
-      "publish": true
+      "publish": true,
+      "access": "public"
     },
     "github": {
       "release": true
@@ -110,7 +111,8 @@
       "@release-it/conventional-changelog": {
         "preset": "angular"
       }
-    }
+    },
+    "access": "public"
   },
   "eslintConfig": {
     "root": true,
