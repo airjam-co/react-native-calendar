@@ -84,6 +84,7 @@ export const ReservationSuccessModal = ({
                         {new Date(
                           bookingResult.request.startTimeUtc
                         ).toLocaleString('en-us', {
+                          timeZone: timezone.toString(),
                           weekday: 'short',
                           year: 'numeric',
                           month: 'short',
@@ -96,6 +97,7 @@ export const ReservationSuccessModal = ({
                         {new Date(
                           bookingResult.request.endTimeUtc
                         ).toLocaleString('en-us', {
+                          timeZone: timezone.toString(),
                           weekday: 'short',
                           month: 'short',
                           day: 'numeric',

@@ -116,6 +116,7 @@ export const ReservationModal = ({
                       />
                       <Text style={style.flexText}>
                         {requestStartTime.toLocaleString('en-us', {
+                          timeZone: timezone.toString(),
                           weekday: 'short',
                           year: 'numeric',
                           month: 'short',
@@ -126,6 +127,7 @@ export const ReservationModal = ({
                         })}{' '}
                         to{' '}
                         {requestEndTime.toLocaleString('en-us', {
+                          timeZone: timezone.toString(),
                           weekday: 'short',
                           month: 'short',
                           day: 'numeric',
