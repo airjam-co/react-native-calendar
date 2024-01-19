@@ -1,3 +1,4 @@
+export declare function multiply(a: number, b: number): Promise<number>;
 export * from './thunk';
 export * from './timezone_data';
 export * from './utils';
