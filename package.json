@@ -48,7 +48,8 @@
   },
   "homepage": "https://github.com/airjam-co/react-native-calendar#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^17.0.2",
@@ -101,10 +102,7 @@
       "tagName": "v${version}"
     },
     "npm": {
-      "publish": true,
-      "publishConfig": {
-        "access": "public"
-      }
+      "publish": true
     },
     "github": {
       "release": true
